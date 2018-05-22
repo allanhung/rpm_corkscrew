@@ -8,7 +8,7 @@ docker run --name=corkscrew_build --rm -ti -v $(pwd)/rpms:/root/rpmbuild/RPMS/x8
 ```
 
 ## How to use
-![Alt text](ssh_over_https_proxy)
+![alt text](https://github.com/allanhung/rpm_corkscrew/raw/master/ssh_over_https_proxy.png "ssh over proxy")
 
 ```sh
 # on ssh gateway
